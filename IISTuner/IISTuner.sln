@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IISTuner", "IISTuner\IISTuner.csproj", "{163D1AC3-A400-45A6-8E29-31E1E2A99000}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{163D1AC3-A400-45A6-8E29-31E1E2A99000}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{163D1AC3-A400-45A6-8E29-31E1E2A99000}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{163D1AC3-A400-45A6-8E29-31E1E2A99000}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{163D1AC3-A400-45A6-8E29-31E1E2A99000}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73417867-34F6-4C3C-B910-D043915E0D7C}
+	EndGlobalSection
+EndGlobal

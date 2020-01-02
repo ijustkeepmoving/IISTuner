@@ -1,0 +1,14 @@
+D:\Web\GitHub\IISTuner\IISTuner\IISTuner\bin\Debug\IISTuner.exe.config
+D:\Web\GitHub\IISTuner\IISTuner\IISTuner\bin\Debug\IISTuner.exe
+D:\Web\GitHub\IISTuner\IISTuner\IISTuner\bin\Debug\IISTuner.pdb
+D:\Web\GitHub\IISTuner\IISTuner\IISTuner\obj\Debug\IISTuner.Form1.resources
+D:\Web\GitHub\IISTuner\IISTuner\IISTuner\obj\Debug\IISTuner.Properties.Resources.resources
+D:\Web\GitHub\IISTuner\IISTuner\IISTuner\obj\Debug\IISTuner.csproj.GenerateResource.cache
+D:\Web\GitHub\IISTuner\IISTuner\IISTuner\obj\Debug\IISTuner.exe
+D:\Web\GitHub\IISTuner\IISTuner\IISTuner\obj\Debug\IISTuner.pdb
+D:\Web\GitHub\IISTuner\IISTuner\IISTuner\obj\Debug\IISTuner.Loading.resources
+D:\Web\GitHub\IISTuner\IISTuner\IISTuner\bin\Debug\System.Security.AccessControl.dll
+D:\Web\GitHub\IISTuner\IISTuner\IISTuner\bin\Debug\System.Security.Principal.Windows.dll
+D:\Web\GitHub\IISTuner\IISTuner\IISTuner\bin\Debug\System.Security.AccessControl.xml
+D:\Web\GitHub\IISTuner\IISTuner\IISTuner\bin\Debug\System.Security.Principal.Windows.xml
+D:\Web\GitHub\IISTuner\IISTuner\IISTuner\obj\Debug\IISTuner.csproj.CopyComplete
